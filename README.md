@@ -1,3 +1,3 @@
 # GLO
 Glo intensive.
-https://github.com/Ximik-Yura/GLO/
+https://Ximik-Yura.github.io/GLO/
